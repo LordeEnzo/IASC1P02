@@ -1,0 +1,10 @@
+body{
+
+}
+p{
+  text-transform: uppercase;
+  font-family: "Arial", "Comic-sans", serif;
+}
+#img{
+  border:1px solid black; /*The img already has a border on it for some reason */
+}
