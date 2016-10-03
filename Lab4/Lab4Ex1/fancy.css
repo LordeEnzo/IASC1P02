@@ -1,0 +1,26 @@
+body{
+  border: black 5px solid;
+  margin-left:50px;
+  margin-right:50px;
+  margin-top:150px;
+  margin-bottom:50px;
+  background-color: blue;
+}
+
+#txtborder p{
+  border: green 3px dashed;
+  color: red;
+  margin-left:50px;
+  margin-right:50px;
+  margin-top:50px;
+  margin-bottom:50px;
+}
+
+#imgborder{
+  border: yellow 3px dashed;
+
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

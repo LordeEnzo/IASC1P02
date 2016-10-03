@@ -1,0 +1,29 @@
+#txtborder1{
+  border: purple 3px dashed;
+}
+#ptxt1{
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 10px
+}
+#ptxt2{
+  font-size: 10px;
+  text-align:center;
+  color:green;
+}
+
+#ptxt3{
+  color: orange;
+  font-size: 40px;
+}
+#ptxt4{
+  text-align: right;
+  color: purple;
+}
+#word1{
+  vertical-align: super;
+  color:red;
+}
+#word2{
+  color:yellow;
+}
