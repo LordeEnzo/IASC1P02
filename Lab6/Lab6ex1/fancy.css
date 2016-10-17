@@ -1,0 +1,41 @@
+body{
+  background-color: purple;
+}
+
+#wrapper{
+  background-color: silver;
+  height: 1000px;
+  width: 1500px;
+}
+
+h1{
+text-align: center;
+}
+
+#header{
+  background-color: gray;
+  width: 1500px;
+  height: 100px;
+}
+
+#nav{
+  background-color: #f2f2f2;
+  height: 800px;
+  width:1500px;
+  float:left;
+}
+
+#content{
+  background-color:  #595959;
+  height: 800px;
+  width:650px;
+  float:left;
+}
+
+#footer{
+  color: white;
+  background-color: #1a1a1a;
+  width:1500px;
+  height: 100px;
+  clear: both;
+}
